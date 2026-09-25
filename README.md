@@ -25,22 +25,9 @@ Graduate researcher at Santa Clara University working on next-generation compute
 
 ## GitHub activity
 
-<p align="center">
-  <a href="https://github.com/lhofstetter">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lhofstetter&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark_dimmed">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lhofstetter&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github">
-      <img height="165" alt="Luke Hofstetter's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=lhofstetter&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github">
-    </picture>
-  </a>
-  <a href="https://github.com/lhofstetter?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lhofstetter&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=github_dark_dimmed">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lhofstetter&amp;layout=compact&amp;langs_count=6&amp;hide_border=true">
-      <img height="165" alt="Languages used across Luke Hofstetter's public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhofstetter&amp;layout=compact&amp;langs_count=6&amp;hide_border=true">
-    </picture>
-  </a>
-</p>
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=lhofstetter)
+
+![Luke's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhofstetter&show=contributions,all_time_contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented)
 
 > Measure before optimizing. Build systems that remain maintainable.
 
